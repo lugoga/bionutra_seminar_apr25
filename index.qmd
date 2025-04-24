@@ -1,0 +1,446 @@
+---
+title: "YOU’RE NOT SICK — YOU’RE MISINFORMED!!!"
+subtitle: 'Eating Right for Health and Disease Prevention'
+author: 
+  - Jofrey Raymond 
+  - Christina Charles
+  - Grace Matata
+  # - Samson Job
+institute: 
+    - Director of Research & Innovation
+    - Chief Executive Officer
+    - Chief Operating Officer
+  # - School of Aquatic Sciences and Fisheries Technology
+date: today
+format:
+  revealjs: 
+    css: style.css
+    # background-image: "images/bg_ngalawa_web.png"
+    # background-size: cover
+    # background-position: left
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: BioNutra logo -06.png
+    pointer:
+      pointerSize: 30
+      color: '#EC0000'
+    confetti:
+      particleCount: 350
+      angle: 90
+      spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
+revealjs-plugins:
+  - attribution
+  - quiz
+  - confetti
+  - pointer
+
+# embed-resources: true
+# theme: serif
+highlight-style: ayu-mirage
+code-line-numbers: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+#  {background="#43464B" background-image="BioNutra%20Dozes/Products%20Catalog%20Online%202sh-01.jpg"}
+
+
+## Today's Agenda 
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Shocking truth---fallacies & illusions
+- The root of chronic diseases
+- Where it starts
+- Food the healer
+- BioNutra
+
+:::
+
+::: {.column width="50%"}
+
+![](BioNutra%20Dozes/Doze-03.jpg)
+:::
+:::
+
+
+
+## *What primarily controls long-term weight and metabolism?* {.quiz-question}
+
+
+- Calories
+- [Hormones]{.correct}
+- Proteins
+- Carbohydrates
+
+::: footer
+Click on one of the options then click the check button. If you got it wrong click reset and try again.
+:::
+
+## The Shocking Truth
+
+❌ You’re not broken
+
+❌ You don’t need more pills
+
+✅ You need better information
+
+✅ You need food that heals, not harms
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;">It's not that you're broken—you just haven't been given the right information yet.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+
+## The Root Cause of Chronic Illness
+
+❌ It’s not genetics. 
+
+❌ It’s not age. 
+
+❌ It’s not bad luck.
+
+✅ It’s metabolic dysfunction — and it’s fixable.
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;">88% of people are metabolically unwell. Food broke the body… and food can fix it.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+## Disease Doesn’t Start in the Clinic
+
+1. 🧃 Ultra-processed foods
+1. 🧁 Hidden sugars
+1. 🌾 Refined carbs
+1. 🥫 Additives & inflammatory oils
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;">It starts in your kitchen --- fridge, plate, and ends in your gut.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+## Disease Doesn’t Start in the Clinic.
+
+All trigger:
+
+1. 🧬 Hormonal chaos
+1. 🔥 Inflammation
+1. 🧠 Brain dysfunction
+1.  📈 Fat storage
+
+
+<div style="position: relative; max-width: 800px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;">Your body's out of balance → swelling → tired brain → continue to gain weight</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+
+## What We Help You Reverse
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ Type 2 Diabetes
+
+✅	Reversible. Period.
+
+✅	Cut sugar → Restore insulin sensitivity
+
+
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-01.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+
+
+## What We Help You Reverse
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ High Blood Pressure
+
+✅ It’s not the salt — it’s the insulin
+
+✅ Fix insulin → Lower pressure
+
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-09.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+
+## What Else You Can Beat With Food
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ Cholesterol
+
+❌ Uric Acid, and 
+
+❌ Gout
+  
+✅ It’s not fat---it’s fructose
+
+✅ Eliminate the trigger--- balance returns
+
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-02.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+
+
+
+## What Else You Can Beat...
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ Obesity & Fatty Liver
+
+✅ You’re not lazy
+
+✅ You’re hormonally hijacked — let’s fix that
+
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-03.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+## What Else You Can Beat...
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ Gut & Immune Problems
+
+✅ Heal the gut → Heal the immune system
+
+✅ Diversity & real food restore balance
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-03.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+## What Else You Can Beat...
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+❌ Hormonal Imbalance
+
+❌ Brain Fog
+
+✅ Food is information — for your brain, too
+
+:::
+
+::: {.column width="50%"}
+![](BioNutra%20Dozes/Doze-12.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+## What Else You Can Beat...
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+❌ Cancer Risk
+
+✅ Chronic inflammation feeds cancer
+
+✅Food can switch those genes off
+
+:::
+
+::: {.column width="60%"}
+![](BioNutra%20Dozes/Doze-11.jpg){width="70%"}
+:::
+
+:::
+
+::: attribution
+Photo courtesy [BioNutra@2025](https://bionutra.co.tz/)
+:::
+
+## Food is the Most Powerful Medicine
+
+🧠 Influences your brain
+
+🫀 Controls your metabolism
+
+🛡️ Regulates your immune system
+
+🧬 Talks to your genes
+
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;"> It’s time to stop eating blind. Eat to heal.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+
+
+
+## *Question: Do medications primarily manage or heal diseases?* {.quiz-question}
+
+- Heal (Reverse the root cause)
+- [Depends on the disease]{.correct}
+- Manage (Control symptoms/progression)
+
+
+
+
+
+## Myth or Truth
+
+::: {.columns}
+
+::: {.column width="55%"}
+**MYTHS**
+
+❌ Calories in equals Calories out
+
+❌ Fat drives you gain weight
+
+❌ Medication manages disease
+
+:::
+
+::: {.column width="45%"}
+**TRUTH**
+
+✅ Hormones are the culprit not calories
+
+✅ Sugar drives fat storage
+
+✅ Healthy Food reverses diseases
+::: 
+:::
+
+
+
+<div style="position: relative; max-width: 800px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;"> Hormones matter than calories, sugar not fat causes weight gain.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+
+
+## Our Approach at BioNutra
+
+🧬 Functional Foods → Target root causes
+
+📊 Personalized Nutrition → Backed by data
+
+🥦 Whole Foods → Nothing artificial
+
+📈 Education → Not medication
+
+
+
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;"> We don’t manage disease — We help you know to treat.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+## Call for Action
+
+*Ready to stop managing illness and start reversing it?*
+
+✅ Join our nutrition reset program
+
+✅ Try BioNutra’s functional foods
+
+✅ Let food work for you — not against you
+
+
+<div style="position: relative; max-width: 600px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #17280b; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color:#3e880a; margin: 0; padding: 0 4rem;"> The cure for chronic disease isn't in your pharmacy — it's in your kitchen.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #17280b; position: absolute; bottom: -20px; right: 10px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+#  {background="#43464B" background-image="BioNutra%20Dozes/Products%20Catalog%20Online%202sh-05.jpg"}
+
+![]()

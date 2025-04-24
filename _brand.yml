@@ -1,0 +1,17 @@
+color:
+  palette:
+    dark-grey: "#00480fff"
+    blue: "#ddeaf1"
+  background: '#f5fff6ff'
+  foreground: dark-grey
+  primary: black
+
+logo: 
+  medium: BioNutra logo -01.png
+
+typography:
+  fonts:
+    - family: Poppins
+      # source: google
+  base: Poppins
+  headings: Poppins

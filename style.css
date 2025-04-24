@@ -1,0 +1,19 @@
+/* Change all headings */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color:#45904dff; /* Red text */
+  font-family: "Poppins", cursive, sans-serif; /* Custom font */
+  background-color:#c4ffca; /* Yellow background */
+  padding: 10px; /* Add some padding */
+}
+
+/* Or target specific heading levels */
+.reveal h1 {
+  color: #2d5016;
+  font-family: "Poppins", sans-serif;
+  background: #c4ffcaff; /* Semi-transparent */
+}
