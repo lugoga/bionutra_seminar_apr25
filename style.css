@@ -13,7 +13,7 @@
 
 /* Or target specific heading levels */
 .reveal h1 {
-  color: #2d5016;
+  color:#2d5016;
   font-family: "Poppins", sans-serif;
   background: #c4ffcaff; /* Semi-transparent */
 }
