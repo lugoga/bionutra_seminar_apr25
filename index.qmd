@@ -14,6 +14,7 @@ institute:
 date: today
 format:
   revealjs: 
+    multiplex: true
     css: style.css
     # background-image: "images/bg_ngalawa_web.png"
     # background-size: cover
@@ -64,7 +65,7 @@ execute:
 - The root of chronic diseases
 - Where it starts
 - Food the healer
-- BioNutra
+- [BioNutra](https://bionutra.co.tz/){preview-link="true"}
 
 :::
 
