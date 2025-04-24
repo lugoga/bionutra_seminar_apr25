@@ -75,8 +75,6 @@ execute:
 :::
 :::
 
-
-
 ## *What primarily controls long-term weight and metabolism?* {.quiz-question}
 
 
