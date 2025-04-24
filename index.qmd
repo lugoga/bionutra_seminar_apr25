@@ -16,6 +16,8 @@ format:
   revealjs: 
     multiplex: true
     css: style.css
+    transition: slide
+    background-transition: fade
     # background-image: "images/bg_ngalawa_web.png"
     # background-size: cover
     # background-position: left
